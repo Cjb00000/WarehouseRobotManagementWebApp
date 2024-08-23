@@ -25,7 +25,7 @@ This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage
 ![CRUD Operations](frontend\src\images\WebDevRobotAdd.PNG)
 *CRUD operations for managing robot records*
 
-![Mobile Viewing](frontend\src\images\WebDevRobotPhone.PNG)
+![Mobile Viewing](frontend/src/images/WebDevRobotPhone.PNG)
 *Responsive to different screen sizes*
 
 ## Installation
