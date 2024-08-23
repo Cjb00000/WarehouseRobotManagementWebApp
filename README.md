@@ -35,6 +35,10 @@ I wanted to build a full stack web development project that could be useful as t
 
 *Responsive to different screen sizes*
 
+![Mobile Viewing](frontend/src/images/WebDevRobotPhone.PNG)
+
+*Responsive to different screen sizes*
+
 ## Installation
 
     git clone https://github.com/yourusername/this-repo.git
