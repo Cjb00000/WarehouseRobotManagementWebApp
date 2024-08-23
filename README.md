@@ -63,6 +63,7 @@ Build a full stack web development project that could be useful as the data appl
 **Create a .env file in the backend directory and add your MongoDB URI:**
 
   MONGO_DB_URI=your_mongodb_connection_string
+  
 **It is important to keep the MongoDB information secure and not shared in GitHub or elsewhere, which is why the .env file is in the .gitignore**
 
 
