@@ -4,10 +4,6 @@
 
 This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage robots, track delivery times, and monitor the number of packages delivered. The application allows users to **Create, Read, Update, and Delete (CRUD)** entries for robots and their associated delivery data. This project was developed to explore how data can optimize manufacturing and delivery processes.
 
-## Motivation
-
-Build a full stack web development project that could be useful as the data applied to the backend becomes more expansive. Data management is vital to operations that involve transporting goods. In addition, I am interested in how access to continuous updated data can be used to allow multiple autonomous systems to cooperate better. There is no end to the data that could be communicated, and the benefits it can serve to their function. This is a small prototype, though that is what I would expand it towards in the future.
-
 ## Features
 
 - **CRUD Operations**: Add, edit, update, and delete robot records.
