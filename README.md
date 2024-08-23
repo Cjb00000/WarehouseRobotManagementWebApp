@@ -19,27 +19,26 @@ This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage
 
 ## Screenshots
 
-![Home Page](frontend\src\images\WebDevRobotHomePage2.PNG)
+![Home Page](frontend/src/images/WebDevRobotHomePage2.PNG)
+
 *Home Page showing the main interface*
 
-![CRUD Operations](frontend\src\images\WebDevRobotAdd.PNG)
+![CRUD Operations](frontend/src/images/WebDevRobotAdd.PNG)
+
 *CRUD operations for managing robot records*
 
 ![Mobile Viewing](frontend/src/images/WebDevRobotPhone.PNG)
+
 *Responsive to different screen sizes*
 
 ## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   Navigate to Project Directory
+git clone https://github.com/yourusername/your-repo.git
+Navigate to Project Directory
 
-bash
-Copy code
 cd your-repo
-Install Dependencies
 
+Install Dependencies
 For the backend:
 cd backend
 npm install
