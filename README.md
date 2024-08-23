@@ -4,6 +4,10 @@
 
 This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage robots, track delivery times, and monitor the number of packages delivered. The application allows users to **Create, Read, Update, and Delete (CRUD)** entries for robots and their associated delivery data. This project was developed to explore how data can optimize manufacturing and delivery processes.
 
+## Motivation
+
+I am interested in how access to continuous updated data can be used to allow multiple autonomous systems to cooperate better. There is no end to the data that could be communicated, and the benefits it can serve to their function.
+
 ## Features
 
 - **CRUD Operations**: Add, edit, update, and delete robot records.
@@ -33,59 +37,59 @@ This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage
 
 ## Installation
 
-git clone https://github.com/yourusername/your-repo.git
-
-Navigate to Project Directory
+git clone https://github.com/yourusername/this-repo.git
 
 
-cd your-repo
+**Navigate to Project Directory**
+
+cd this-repo
 
 
-Install Dependencies
+**Install Dependencies**
 
-For the backend:
+  For the backend:
 
-cd backend
+    cd backend
 
-npm install
+    npm install
 
-For the frontend:
+  For the frontend:
 
-cd ../frontend
+    cd ../frontend
 
-npm install
-
-
-Create a .env file in the backend directory and add your MongoDB URI:
-
-MONGO_DB_URI=your_mongodb_connection_string
-
-Run the Application
+    npm install
 
 
-Start the backend server:
+**Create a .env file in the backend directory and add your MongoDB URI:**
 
-cd backend
-
-npm start
-
-Start the frontend application:
-
-cd ../frontend
-
-npm start
-
-Access the Application:
-
-Open your browser and go to http://localhost:3000 to view the app.
-
-CRUD Operations:
+  MONGO_DB_URI=your_mongodb_connection_string
 
 
-Add Robots: Navigate to the 'Add Robot' page and enter the robot details.
+**Run the Application**
 
-Edit Robots: Select a robot from the list and update its details.
+**Start the backend server:**
 
-Update Delivery Times: Modify delivery schedules and track the number of packages.
+  cd backend
 
-Delete Entries: Remove robots and delivery data as needed.
+    npm start
+
+**Start the frontend application:**
+
+  cd ../frontend
+
+    npm start
+
+**Access the Application:**
+
+  Open your browser and go to http://localhost:3000 to view the app.
+
+**CRUD Operations:**
+
+
+  Add Robots: Navigate to the 'Add Robot' page and enter the robot details.
+
+  Edit Robots: Select a robot from the list and update its details.
+
+  Update Delivery Times: Modify delivery schedules and track the number of packages.
+
+  Delete Entries: Remove robots and delivery data as needed.
