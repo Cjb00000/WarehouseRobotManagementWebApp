@@ -35,9 +35,9 @@ I wanted to build a full stack web development project that could be useful as t
 
 *Responsive to different screen sizes*
 
-![Mobile Viewing](frontend/src/images/WebDevRobotPhone.PNG)
+![Mobile Viewing](frontend/src/images/WebDevRobotHome.PNG)
 
-*Responsive to different screen sizes*
+*Describing the stack used for the project*
 
 ## Installation
 
