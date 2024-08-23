@@ -6,7 +6,7 @@ This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage
 
 ## Motivation
 
-I am interested in how access to continuous updated data can be used to allow multiple autonomous systems to cooperate better. There is no end to the data that could be communicated, and the benefits it can serve to their function.
+I wanted to build a full stack web development project that could be useful as the data applied to the backend becomes more expansive. I am interested in how access to continuous updated data can be used to allow multiple autonomous systems to cooperate better. There is no end to the data that could be communicated, and the benefits it can serve to their function.
 
 ## Features
 
