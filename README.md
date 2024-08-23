@@ -37,12 +37,12 @@ I am interested in how access to continuous updated data can be used to allow mu
 
 ## Installation
 
-git clone https://github.com/yourusername/this-repo.git
+    git clone https://github.com/yourusername/this-repo.git
 
 
 **Navigate to Project Directory**
 
-cd this-repo
+    cd this-repo
 
 
 **Install Dependencies**
@@ -69,13 +69,13 @@ cd this-repo
 
 **Start the backend server:**
 
-  cd backend
+    cd backend
 
     npm start
 
 **Start the frontend application:**
 
-  cd ../frontend
+    cd ../frontend
 
     npm start
 
