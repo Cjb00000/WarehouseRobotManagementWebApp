@@ -34,34 +34,58 @@ This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage
 ## Installation
 
 git clone https://github.com/yourusername/your-repo.git
+
 Navigate to Project Directory
+
 
 cd your-repo
 
+
 Install Dependencies
+
 For the backend:
+
 cd backend
+
 npm install
+
 For the frontend:
+
 cd ../frontend
+
 npm install
+
 
 Create a .env file in the backend directory and add your MongoDB URI:
+
 MONGO_DB_URI=your_mongodb_connection_string
+
 Run the Application
 
+
 Start the backend server:
+
 cd backend
+
 npm start
+
 Start the frontend application:
+
 cd ../frontend
+
 npm start
 
 Access the Application:
+
 Open your browser and go to http://localhost:3000 to view the app.
 
 CRUD Operations:
+
+
 Add Robots: Navigate to the 'Add Robot' page and enter the robot details.
+
 Edit Robots: Select a robot from the list and update its details.
+
 Update Delivery Times: Modify delivery schedules and track the number of packages.
+
 Delete Entries: Remove robots and delivery data as needed.
