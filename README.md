@@ -19,10 +19,6 @@ This MERN (MongoDB, Express, React, Node.js) stack project is designed to manage
 
 ## Screenshots
 
-![Home Page](frontend/src/images/WebDevRobotHomePage2.PNG)
-
-*Home Page showing the main interface*
-
 ![CRUD Operations](frontend/src/images/WebDevRobotAdd.PNG)
 
 *CRUD operations for managing robot records*
